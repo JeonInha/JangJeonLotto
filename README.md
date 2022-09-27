@@ -46,7 +46,7 @@ JongJeonLotto 폴더 안에 소스코드가 존재합니다.
 ***
 
 ## 4. LICENSE
-- (C) 2014. JeonInha all rights reserved.
+- (C) 2022. JeonInha all rights reserved.
 - 해당 프로그램에 사용된 디자인 요소들은 미리캔버스(https://www.miricanvas.com/) 를 통해 제작하였습니다.
 
 
